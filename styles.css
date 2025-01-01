@@ -1,2 +1,6 @@
-
 /* Your CSS Code here. */
+.item{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
